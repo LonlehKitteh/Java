@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java10GUI_JOptionPane:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java10GUI_JOptionPane_jar</output-path>
+    <root id="archive" name="Java10GUI_JOptionPane.jar">
+      <element id="module-output" name="Java10GUI_JOptionPane" />
+    </root>
+  </artifact>
+</component>
