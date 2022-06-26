@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java9GUI_OpenNewWindow:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java9GUI_OpenNewWindow_jar</output-path>
+    <root id="archive" name="Java9GUI_OpenNewWindow.jar">
+      <element id="module-output" name="Java9GUI_OpenNewWindow" />
+    </root>
+  </artifact>
+</component>
