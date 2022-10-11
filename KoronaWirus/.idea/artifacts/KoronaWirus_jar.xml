@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KoronaWirus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KoronaWirus_jar</output-path>
+    <root id="archive" name="KoronaWirus.jar">
+      <element id="module-output" name="KoronaWirus" />
+    </root>
+  </artifact>
+</component>
